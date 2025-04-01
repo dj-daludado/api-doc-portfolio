@@ -3,6 +3,7 @@
 Showcasing API documentation using OpenAPI 3.0 and Swagger UI
 
 ##About This Project
+
 This repository demonstrates my ability to write and manage API documentation using OpenAPI (Swagger). It includes a sample **Developer Portal APi**.  
 
 ## Developer Portal API Features  
