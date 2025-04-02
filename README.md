@@ -1,4 +1,4 @@
-# API Documentation Portfolio  
+# Joy's API Documentation Portfolio  
 
 Showcasing API documentation using OpenAPI 3.0 and Swagger UI
 
@@ -22,4 +22,4 @@ https://yourusername.github.io/swagger-ui/
 2. Clone this repository and run Swagger UI locally  
 
 ## About Me  
-I am a technical writer with experience in API documentation, OpenAPI, and developer portals. Check out my resume and full portfolio at [LinkedIn](https://linkedin.com/in/djdaludado).
+I am a Senior Documentation Specialist with experience in API documentation, OpenAPI, and developer portals. Check out my resume at [LinkedIn](https://linkedin.com/in/djdaludado).
